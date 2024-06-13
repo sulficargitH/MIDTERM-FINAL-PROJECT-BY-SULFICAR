@@ -1,0 +1,11 @@
+localhost/Job_Board_Platform
+
+YUNG IMAGE1 NA PAKIKTA MO PO JAN YAN PO YUNG MGA AVAILABLE JOB
+
+
+localhost/Job_Board_Platform/Admin
+
+YUNG IMAGE2 AND IMAGE3 YAN NAMAN YUNG ADMIN/STAFF LOGIN and DASHBOARD
+
+USER: admin
+PASS: admin123
